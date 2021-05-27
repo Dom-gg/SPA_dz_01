@@ -1,0 +1,3 @@
+﻿  game_of_life.cpp
+C:\Users\Moderator\Desktop\Projekt\game_of_life_dz\Zadatak\game_of_life.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Zadatak.vcxproj -> C:\Users\Moderator\Desktop\Projekt\game_of_life_dz\Debug\Zadatak.exe
